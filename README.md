@@ -10,8 +10,20 @@ Quality measures: here, the (a) contrast, (b) saturation, and (c) well-exposedne
 Scalar Weight Map: here, the quality measures for Image[i] are combined and normalized
 Blending: the weight maps and images are blended to obtain a final image
 Final Image: this is the final image with best detail using Multiresolution blending (Multires.) 
-![](exposure_fusion_image.png)
+![](exposure_fusion_image.png)  
+The image below shows the image stack, decomposed quality measures, and final weight maps.  
+![](steps_image.png)  
 
 
 ## Results
-![](Final_HDR_image_own.png)
+The images below shows outputs for different exposure-bracketed images.  
+![](Final_HDR_image_own.png)  
+![](results_1.png)  
+![](results_2.png)  
+![](results_3.png)  
+
+A comparison with other methods.  
+![](different_results.png)
+
+
+
