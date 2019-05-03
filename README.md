@@ -8,9 +8,11 @@ Exposure fusion is a technique that creates a single image with optimal detail f
 Image stack: here, the multi-exposed images are combined into a stack of images to be processed
 Quality measures: here, the (a) contrast, (b) saturation, and (c) well-exposedness are computed
 Scalar Weight Map: here, the quality measures for Image[i] are combined and normalized
-Blending: the weight maps and images are blended to obtain a final image
-Final Image: this is the final image with best detail using Multiresolution blending (Multires.) 
+Blending: the weight maps and images are blended to obtain a final image  
+Final Image: this is the final image with best detail using Multiresolution blending (Multires.)  
+
 ![](exposure_fusion_image.png)  
+
 The image below shows the image stack, decomposed quality measures, and final weight maps.  
 ![](steps_image.png)  
 
@@ -18,11 +20,15 @@ The image below shows the image stack, decomposed quality measures, and final we
 ## Results
 The images below shows outputs for different exposure-bracketed images.  
 ![](Final_HDR_image_own.png)  
+Another :  
+![](results_3.png) 
+Another :  
 ![](results_1.png)  
+Another :  
 ![](results_2.png)  
-![](results_3.png)  
+ 
 
-A comparison with other methods.  
+A comparison with other methods:  
 ![](different_results.png)
 
 
