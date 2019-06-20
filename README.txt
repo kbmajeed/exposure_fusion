@@ -83,11 +83,3 @@ cv2.imwrite would save files to disk
 
 
 
-
-Code is also available here:
-https://drive.google.com/open?id=13ldBQgm0_c6JTF8qzNK4j8rBou2OWIv6
-
-Relevant files can be found here:
-https://drive.google.com/open?id=189wcU2gh6iFDWsO6nsplm55QUrcmYI2I
-
-
